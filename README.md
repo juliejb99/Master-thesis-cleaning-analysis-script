@@ -6,3 +6,9 @@ Statistical software:
 
 R Version: 4.4.1
 Key packages: lme4, lmerTest, tidyverse, effectsize, ggplot2
+
+Preregistration:
+This study was preregistered as part of a larger research project conducted at Charité Berlin in collaboration with the Central Institute of Mental Health (ZI) Mannheim. The preregistration is not publicly available at this time to protect the integrity of ongoing data collection within the overarching project.
+
+Data availability:
+Data are not publicly shared due to data privacy regulations (GDPR) and the sensitive nature of the variables collected (cannabis use, mental health). Data are available upon reasonable request to the corresponding author.
